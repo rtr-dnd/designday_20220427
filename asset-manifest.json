@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/designday_20220427/static/css/main.5f664905.css",
+    "main.js": "/designday_20220427/static/js/main.42603aca.js",
+    "static/js/787.a8bb95e5.chunk.js": "/designday_20220427/static/js/787.a8bb95e5.chunk.js",
+    "index.html": "/designday_20220427/index.html",
+    "main.5f664905.css.map": "/designday_20220427/static/css/main.5f664905.css.map",
+    "main.42603aca.js.map": "/designday_20220427/static/js/main.42603aca.js.map",
+    "787.a8bb95e5.chunk.js.map": "/designday_20220427/static/js/787.a8bb95e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f664905.css",
+    "static/js/main.42603aca.js"
+  ]
+}
